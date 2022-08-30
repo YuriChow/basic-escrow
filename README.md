@@ -14,5 +14,4 @@ $ cargo build-bpf
 $ cargo test-bpf
 ```
 
-### Versin 0.0.1
 
