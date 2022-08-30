@@ -13,5 +13,3 @@ $ cargo test
 $ cargo build-bpf
 $ cargo test-bpf
 ```
-
-###
